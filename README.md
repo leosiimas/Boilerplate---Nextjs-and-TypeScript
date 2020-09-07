@@ -5,10 +5,10 @@ This is a initial struct to work with: NextJs, TypeScript, Jest, StoryBook.
 First getting the inicial project:
 
 ```bash
-yarn create next-app -e https://github.com/https://github.com/leosiimas/Boilerplate---Nextjs-and-TypeScript
+yarn create next-app -e https://github.com/leosiimas/Boilerplate---Nextjs-and-TypeScript
 ```
 
-And Run the initial projec:
+And Run the initial project:
 
 ```bash
 yarn dev
@@ -20,11 +20,11 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about this project, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [Jest Documentation](https://jestjs.io/docs/en/getting-started) - A comprehensive JavaScript testing solution.
-- [Storybook Documentation](https://storybook.js.org/docs/react/get-started/introduction) - Storybook is a development environment for UI components.
-- [React Testing Library Documentation](https://testing-library.com/docs/react-testing-library/intro) - Simple and complete React DOM testing utilities that encourage good testing practices.
+- [Jest Documentation](https://github.com/facebook/jest) - A comprehensive JavaScript testing solution.
+- [Storybook Documentation](https://github.com/storybookjs/storybook) - Storybook is a development environment for UI components.
+- [React Testing Library Documentation](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities that encourage good testing practices.
 
